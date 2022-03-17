@@ -1,0 +1,10 @@
+Êþº¾   4 &  com/tina/training/Employee  java/lang/Object empid I ename Ljava/lang/String; address <init> ((ILjava/lang/String;Ljava/lang/String;)V Code
+   
+  ()V	    	    	   	  LineNumberTable LocalVariableTable this Lcom/hari/training/Employee; getEmpid ()I setEmpid (I)V getEname ()Ljava/lang/String; setEname (Ljava/lang/String;)V 
+getAddress 	setAddres 
+SourceFile Employee.java !                 	      
+      l     *· *µ *,µ *-µ ±              	 	  
+      *                        	          /     *´ ¬                               >     *µ ±       
+                                /     *´ °                           !     >     *+µ ±       
+                          "      /     *´ °                         # !     >     *+µ ±       
+                      	    $    %
